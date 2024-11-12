@@ -2,6 +2,7 @@ package com.ribeiroamos.dslist.dto;
 
 import com.ribeiroamos.dslist.entities.Game;
 
+// Versão do Game só que com 5 dados
 public class GameMinDTO {
 
     private Long id;
