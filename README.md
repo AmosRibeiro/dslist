@@ -1,7 +1,7 @@
 # DSList - Lista de jogos - API Java Spring Boot 
 ## Sobre o projeto
 
-DSList é uma aplicação back end web desenvolvida durante o **Intensivão Java Spring**, evento distribuido pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSList é uma aplicação back end web desenvolvida durante o **Intensivão Java Spring**, evento distribuido pela [DevSuperior](https://devsuperior.com.br).
 
 A API lista jogos por meio de seus atributos como: gênero, nome, plataforma e etc. Possui uma função interessante com uma lista dinâmica em que você pode mover e trocar os jogos de posição.
 
