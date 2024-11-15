@@ -16,6 +16,15 @@ A API lista jogos por meio de seus atributos como: gênero, nome, plataforma e e
 ## Implantação em teste
 - Teste das requisições API: Postman
 - Banco de dados: H2
+![Postman 1](https://github.com/AmosRibeiro/dslist/blob/main/images/postman1.png)
+
+![Postman 2](https://github.com/AmosRibeiro/dslist/blob/main/images/postman2.png)
+
+![Postman 3](https://github.com/AmosRibeiro/dslist/blob/main/images/postman3.png)
+
+![Postman 4](https://github.com/AmosRibeiro/dslist/blob/main/images/postman4.png)
+
+![Postman 5](https://github.com/AmosRibeiro/dslist/blob/main/images/postman5.png)
 
 # Como executar o projeto
 
