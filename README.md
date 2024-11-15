@@ -35,5 +35,5 @@ java -jar ./target/dslist-0.0.1-SNAPSHOT.jar
 
 Amós Ribeiro
 
-[https://www.linkedin.com/in/wmazoni](https://www.linkedin.com/in/amosribeiro1202/)
+[Linkedin](https://www.linkedin.com/in/amosribeiro1202/)
  
