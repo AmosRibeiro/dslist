@@ -31,12 +31,12 @@ A API lista jogos por meio de seus atributos como: gênero, nome, plataforma e e
 ## Back end
 Pré-requisitos: Java 21
 
+ Clonar repositório
 ```bash
-# clonar repositório
 git clone https://github.com/AmosRibeiro/dslist.git
-
-# entrar na pasta do projeto e executar o comando
-
+```
+ Entrar na pasta do projeto e executar o comando
+```bash
 java -jar ./target/dslist-0.0.1-SNAPSHOT.jar
 ```
 
